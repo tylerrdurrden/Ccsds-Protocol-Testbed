@@ -6,9 +6,9 @@ This repository is dedicated to implementing and testing the CCSDS (Consultative
 ---
 
 ## Objectives
-- **Study and Implementation:** Develop a detailed understanding of the CCSDS protocol stack and implement its layers using an open-source platform.
-- **Evaluation:** Analyze communication mechanisms, protocol efficiency, and overheads in a simulated environment.
-- **Adaptability:** Ensure the testbed aligns with CCSDS standards while allowing modifications to evaluate different scenarios.
+- Develop a detailed understanding of the CCSDS protocol stack and implement its layers using an open-source platform.
+- Analyze communication mechanisms, protocol efficiency, and overheads in a simulated environment.
+- Ensure the testbed aligns with CCSDS standards while allowing modifications to evaluate different scenarios.
 
 ---
 
